@@ -1,13 +1,13 @@
 import re
 from typing import List
 
-def sentence_tokenizer(fileName='cleaned_text.txt') -> List:
+def sentence_tokenizer(fileName='cleaned_text.txt') -> List[str]:
     with open(fileName, 'r') as file:
         text = file.read()
         
         text = re.sub("\n", " ", text) # replaces newlines with spaces
         # sentences = re.split(r"(?<=\.|\?|!)(?<!mrs\.)(?<![dm]r\.) ", text) # splits text into sentences
-        sentences = re.findall(r".*?(?<!mrs)(?<![dm]r)[.!?]\s", text)
+        sentences = re.findall(r".*?(?<!mrs)(?<![dm]r)[.!?]\"?\s", text)
         return sentences
     
 def word_tokenizer(sentences: List[str]) -> List[List[str]]:

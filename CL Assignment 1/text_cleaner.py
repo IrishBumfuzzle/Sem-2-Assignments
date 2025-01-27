@@ -1,11 +1,11 @@
 import re
 
-def basic_cleaning(fileName='sample.txt'):
+def basic_cleaning(fileName='sample.txt') -> str:
     with open(fileName, 'r') as file:
         text = file.read()
         
         text = text.lower() # converts text to lowercase
-        text = re.sub(r"--|[$%^&*()_+=~]", " ", text) # Remove special characters
+        text = re.sub(r"--|[`$%^&*()_+=~]", " ", text) # Remove special characters
         # Handle abbreviations
         text = re.sub(r"won't", "will not", text)
         text = re.sub(r"can't", "cannot", text)
@@ -20,7 +20,7 @@ def basic_cleaning(fileName='sample.txt'):
         return text
         
     
-def advanced_cleaning(text):
+def advanced_cleaning(text) -> str:
     text = re.sub(r"<[^>]*>", "", text) # removes html tags
 
     # PLACEHOLDERS
@@ -29,7 +29,7 @@ def advanced_cleaning(text):
     text = re.sub(r"#[\S]+", "<HASHTAG>", text) # removes hashtags
     text = re.sub(r"(?<=\s)@[\S]+", "<MENTION>", text) # removes mentions
 
-    text = re.sub(r"‘‘|’’|“|”|``|'(?=\s)|(?<=\s)'", '"', text) # replaces different types of quotes with ", including the single quote ' with space before or after 
+    text = re.sub(r"’+|“|”|``|'(?=\s)|(?<=\s)'", '"', text) # replaces different types of quotes with ", including the single quote ' with space before or after 
                                                           # indicating that it was not part of a contraction
     
     text = re.sub(r" \.", ".", text) # Standardises ellipses with the added benefit of removing space before fullstops
