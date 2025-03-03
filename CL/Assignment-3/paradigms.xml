@@ -1,0 +1,115 @@
+<dictionary>
+	<alphabet>abcdefghijklmnopqrstuvwxyz</alphabet>
+	<sdefs>
+		<sdef n="n"/>
+		<sdef n="sg"/>
+		<sdef n="pl"/>
+		<sdef n="vblex"/>
+		<sdef n="inf"/>
+		<sdef n="p3"/>
+		<sdef n="ger"/>
+		<sdef n="past"/>
+		<sdef n="pp"/>
+		<sdef n="pres"/>
+		<sdef n="adj"/>
+		<sdef n="comp"/>
+		<sdef n="sup"/>
+	</sdefs>
+	<pardefs>
+
+		<!-- Nouns -->
+		<pardef n="beer__n">
+			<e><p><l/><r><s n="n"/><s n="sg"/></r></p></e>
+			<e><p><l>s</l><r><s n="n"/><s n="pl"/></r></p></e>
+		</pardef>
+		<pardef n="bab/y__n">
+			<e><p><l>y</l><r>y<s n="n"/><s n="sg"/></r></p></e>
+			<e><p><l>ies</l><r>y<s n="n"/><s n="pl"/></r></p></e>
+		</pardef>
+		<pardef n="child__n">
+			<e><p><l></l><r><s n="n"/><s n="sg"/></r></p></e>
+			<e><p><l>ren</l><r><s n="n"/><s n="pl"/></r></p></e>
+		</pardef>
+
+		<!-- Adjectives -->
+		<pardef n="flat/__adj">
+			<e><p><l></l><r><s n="adj"/></r></p></e>
+			<e><p><l>ter</l><r><s n="adj"/><s n="comp"/></r></p></e>
+			<e><p><l>test</l><r><s n="adj"/><s n="sup"/></r></p></e>
+		</pardef>
+		<pardef n="/good__adj">
+			<e><p><l>good</l><r>good<s n="adj"/></r></p></e>
+			<e><p><l>better</l><r>good<s n="adj"/><s n="comp"/></r></p></e>
+			<e><p><l>best</l><r>good<s n="adj"/><s n="sup"/></r></p></e>
+		</pardef>
+		<pardef n="lovel/y__adj">
+			<e><p><l>y</l><r>y<s n="adj"/></r></p></e>
+			<e><p><l>ier</l><r>y<s n="adj"/><s n="comp"/></r></p></e>
+			<e><p><l>iest</l><r>y<s n="adj"/><s n="sup"/></r></p></e>
+		</pardef>
+
+		<!-- Verbs -->
+		<pardef n="walk__vblex">
+			<!-- present -->
+			<e><p><l/><r><s n="vblex"/><s n="inf"/></r></p></e>
+			<e><p><l/><r><s n="vblex"/><s n="pres"/></r></p></e>
+			<e><p><l>s</l><r><s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+			<e><p><l>ing</l><r><s n="vblex"/><s n="ger"/></r></p></e>
+			<!-- past -->
+			<e><p><l>ed</l><r><s n="vblex"/><s n="past"/></r></p></e>
+            <e><p><l>ed</l><r><s n="vblex"/><s n="pp"/></r></p></e>
+		</pardef>
+		<pardef n = "d/o__vblex">
+			<!-- present -->
+			<e><p><l>o</l><r>o<s n="vblex"/><s n="inf"/></r></p></e>
+			<e><p><l>o</l><r>o<s n="vblex"/><s n="pres"/></r></p></e>
+			<e><p><l>oes</l><r>o<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+			<e><p><l>oing</l><r>o<s n="vblex"/><s n="ger"/></r></p></e>
+			<!-- past -->
+			<e><p><l>id</l><r>o<s n="vblex"/><s n="past"/></r></p></e>
+			<e><p><l>one</l><r>o<s n="vblex"/><s n="pp"/></r></p></e>
+		</pardef>
+		<pardef n="liv/e__vblex">
+   			<!-- present -->
+			<e><p><l>e</l><r>e<s n="vblex"/><s n="inf"/></r></p></e>
+			<e><p><l>ing</l><r>e<s n="vblex"/><s n="ger"/></r></p></e>
+			<e><p><l>e</l><r>e<s n="vblex"/><s n="pres"/></r></p></e>
+			<e><p><l>es</l><r>e<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+			<!-- past -->
+			<e><p><l>ed</l><r>e<s n="vblex"/><s n="past"/></r></p></e>
+			<e><p><l>ed</l><r>e<s n="vblex"/><s n="pp"/></r></p></e>
+		</pardef>
+	</pardefs>
+	<section id="main" type="standard">
+
+		<!-- Nouns -->
+		<e lm="beer"><i>beer</i><par n="beer__n"/></e>
+		<e lm="school"><i>school</i><par n="beer__n"/></e>
+		<e lm="computer"><i>computer</i><par n="beer__n"/></e>
+		<e lm="house"><i>house</i><par n="beer__n"/></e>
+		<e lm="baby"><i>bab</i><par n="bab/y__n"/></e>
+		<e lm="ability"><i>abilit</i><par n="bab/y__n"/></e>
+		<e lm="accessory"><i>accessor</i><par n="bab/y__n"/></e>
+		<e lm="accuracy"><i>accurac</i><par n="bab/y__n"/></e>
+		<e lm="child"><i>child</i><par n="child__n"/></e>
+
+		<!-- Adjectives -->
+		<e lm="flat"><i>flat</i><par n="flat/__adj"/></e>
+		<e lm="good"><i></i><par n="/good__adj"/></e>
+		<e lm="lovely"><i>lovel</i><par n="lovel/y__adj"/></e>
+		<e lm="likely"><i>likel</i><par n="lovel/y__adj"/></e>
+		<e lm="lively"><i>livel</i><par n="lovel/y__adj"/></e>
+
+		<!-- Verbs -->
+		<e lm="walk"><i>walk</i><par n="walk__vblex"/></e>
+		<e lm="do"><i>d</i><par n="d/o__vblex"/></e>
+		<e lm="walk"><i>walk</i><par n="walk__vblex"/></e>
+		<e lm="absorb"><i>absorb</i><par n="walk__vblex"/></e>
+		<e lm="fork"><i>fork</i><par n="walk__vblex"/></e>
+		<e lm="inspect"><i>inspect</i><par n="walk__vblex"/></e>
+		<e lm="accelerate"><i>accelerat</i><par n="liv/e__vblex"/></e>
+		<e lm="activate"><i>activat</i><par n="liv/e__vblex"/></e>
+		<e lm="redo"><i>red</i><par n="d/o__vblex"/></e>
+		<e lm="undo"><i>und</i><par n="d/o__vblex"/></e>
+	</section>
+</dictionary>

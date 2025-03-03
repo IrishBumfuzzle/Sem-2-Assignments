@@ -1,3 +1,6 @@
 [submodule "ISS/Assignment-1"]
 	path = ISS/Assignment-1
 	url = https://github.com/ISS-2025-Spring/assignment-1-IrishBumfuzzle.git
+[submodule "ISS/Assignment-2"]
+	path = ISS/Assignment-2
+	url = git@github.com:ISS-2025-Spring/assignment-2-IrishBumfuzzle.git
