@@ -1,0 +1,8 @@
+^beer<n><pl>$ ^child<n><pl>$ ^baby<n><pl>$ ^baby<n><sg>$
+beers children babies baby
+
+^lovely<adj><sup>$ ^lovely<adj><comp>$ ^good<adj><comp>$ ^good<adj><sup>$
+loveliest lovelier better best
+
+^walk<vblex><ger>$ ^do<vblex><ger>$ ^do<vblex><past>$ ^do<vblex><pp>$
+walking doing did done

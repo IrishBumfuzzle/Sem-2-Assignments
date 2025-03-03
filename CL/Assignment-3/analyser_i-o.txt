@@ -1,0 +1,8 @@
+beers school computer babies child children houses schools abilities baby
+^beers/beer<n><pl>$ ^school/school<n><sg>$ ^computer/computer<n><sg>$ ^babies/baby<n><pl>$ ^child/child<n><sg>$ ^children/child<n><pl>$ ^houses/house<n><pl>$ ^schools/school<n><pl>$ ^abilities/ability<n><pl>$ ^baby/baby<n><sg>$
+
+flatter best flattest lovely loveliest
+^flatter/flat<adj><comp>$ ^best/good<adj><sup>$ ^flattest/flat<adj><sup>$ ^lovely/lovely<adj>$ ^loveliest/lovely<adj><sup>
+
+walked walking doing done did forked
+^walked/walk<vblex><past>/walk<vblex><pp>$ ^walking/walk<vblex><ger>$ ^doing/do<vblex><ger>$ ^done/do<vblex><pp>$ ^did/do<vblex><past>$ ^forked/fork<vblex><past>/fork<vblex><pp>$
