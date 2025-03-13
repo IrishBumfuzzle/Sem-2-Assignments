@@ -2,8 +2,10 @@
 
 prod:
     movq $1, %r8 # i = 1
+    movq %rdx, %rcx
+    movq $9223372036854775807, %r11 # put LL_MAX for later modulo
 
-    movq $1, (%rdx) # out[i] = 1
+    movq $1, (%rcx) # out[i] = 1
     
     jmp .loop1
 
@@ -11,9 +13,12 @@ prod:
     leaq -1(%r8), %r10
     movq (%rsi, %r10, 8), %r9 # r9 = nums[i-1]
 
-    imulq (%rdx, %r10, 8), %r9 # r9 *= out[i-1]
+    movq (%rcx, %r10, 8), %rax
+    cqto
+    imulq %r9
+    idivq %r11
 
-    movq %r9, (%rdx, %r8, 8) # out[i] = nums[i-1] * out[i-1]
+    movq %rdx, (%rcx, %r8, 8) # out[i] = nums[i-1] * out[i-1]
 
     addq $1, %r8 # i++
 
@@ -27,11 +32,17 @@ prod:
     jmp .loop2
 
 .inside2:
-    movq (%rdx, %r8, 8), %r10
-    imulq %r9, %r10
-    movq %r10, (%rdx, %r8, 8) # out[i] *= right
+    movq (%rcx, %r8, 8), %rax
+    cqto
+    imulq %r9
+    idivq %r11 # Taking the mod of out[i] * right by LL_MAX
+    movq %rdx, (%rcx, %r8, 8) # out[i] = (right * out[i]) % LL_MAX
 
-    imulq (%rsi, %r8, 8), %r9 # right *= nums[i]
+    movq (%rsi, %r8, 8), %rax
+    cqto
+    imulq %r9 # right * nums[i]
+    idivq %r11 # Taking mod by LL_MAX
+    movq %rdx, %r9 # right = (nums[i] * right) % LL_MAX
 
     subq $1, %r8 # i--
 

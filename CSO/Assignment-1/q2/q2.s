@@ -10,10 +10,10 @@ rot_by_two:
     movq (%rsi, %r8, 8), %r9
     
     leaq 2(%r8), %rax # i + 2
-    movq $0, %rdx
+    cqto
     idivq %rdi # (i + 2) % n
 
-    movq %r9, (%rcx, %rdx, 8) # new[^] = arr[i]
+    movq %r9, (%rcx, %rdx, 8) # new[(i + 2) % n] = arr[i]
     
     addq $1, %r8 # i++
 
