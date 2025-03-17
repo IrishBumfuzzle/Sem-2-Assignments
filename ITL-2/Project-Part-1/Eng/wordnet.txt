@@ -1,0 +1,79 @@
+
+sing
+Synonmys:  sing
+
+show
+Synonmys:  show
+Hypernyms: act,  human_action,  human_activity
+Hyponyms: tinsel
+
+listen
+Synonmys:  hear,  take_heed
+
+go
+Synonmys:  fling,  go,  pass
+Hypernyms: attempt,  effort,  endeavor
+
+do
+Synonmys:  do,  brawl
+Hypernyms: banquet,  feast
+
+say
+Synonmys:  tell,  enjoin,  say
+
+speak
+Synonmys:  speak,  utter,  mouth
+
+fall
+Synonmys:  fall,  surrender
+Hypernyms: 
+
+see
+Hypernyms: site,  land_site
+
+start
+Synonmys:  start,  commencement
+Hypernyms: origin,  origination,  inception
+
+forest
+Synonmys:  wood,  woods
+Hypernyms: group,  grouping
+Meronyms: plant,  flora,  plant_life
+
+cuckoo
+Hypernyms: 
+
+voice
+Synonmys:  vocalization,  vocalisation,  vocalism
+Hypernyms: sound
+Hyponyms: whisper,  whispering,  susurration
+
+magician
+Synonmys:  prestidigitator,  conjurer,  conjuror
+Hypernyms: person,  individual,  someone
+Hyponyms: enchantress,  witch
+
+time
+Hypernyms: continuance,  continuation
+Hyponyms: 
+
+drop
+Synonmys:  drop,  drop-off
+Hypernyms: rock,  stone
+
+talk
+Synonmys:  talk_of_the_town
+Hypernyms: happening,  occurrence,  occurrent
+
+people
+Synonmys:  people
+Hypernyms: inhabitant,  habitant,  dweller
+Hyponyms: national,  subject
+
+sky
+Hypernyms: natural_object
+Hyponyms: outer_space
+Meronyms: cloud
+
+king
+Hypernyms: chessman,  chess_piece

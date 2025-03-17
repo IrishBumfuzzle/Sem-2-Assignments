@@ -1,0 +1,243 @@
+
+\item \begin{hindi}बार\end{hindi} \\
+Synonyms: \begin{hindi}दफ़ा, दफा, मरतबा\end{hindi} \\
+Hypernyms: \begin{hindi}समय, काल, वक्त\end{hindi}
+
+\item \begin{hindi}बन\end{hindi} \\
+Synonyms: \begin{hindi}वन, बन, अरण्य\end{hindi} \\
+Hypernyms: \begin{hindi}पेड़-पौधे, पेड़ पौधे, वनस्पति समूह\end{hindi} \\
+Hyponyms: \begin{hindi}सदाबहार वन, सदाबहार जंगल, हरित कानन\end{hindi} \\
+Meronyms: \begin{hindi}वनस्पति, पेड़-पौधा\end{hindi}
+
+\item \begin{hindi}कोयल\end{hindi} \\
+Synonyms: \begin{hindi}कोकिला, कोकिल, पिक\end{hindi} \\
+Hypernyms: \begin{hindi}गायक पक्षी\end{hindi}
+
+\item \begin{hindi}मीठा\end{hindi} \\
+Synonyms: \begin{hindi}मधुर, मिष्ट\end{hindi}
+
+\item \begin{hindi}आ\end{hindi} \\
+Synonyms: \begin{hindi}स्वराक्षर आ, स्वर अक्षर आ\end{hindi} \\
+Hypernyms: \begin{hindi}स्वर, स्वर अक्षर, स्वराक्षर\end{hindi}
+
+\item \begin{hindi}जा\end{hindi} \\
+Synonyms: \begin{hindi}जा, देरानी, दिरानी\end{hindi} \\
+Hypernyms: \begin{hindi}रिश्तेदार, नातेदार, संबंधी\end{hindi}
+
+\item \begin{hindi}आवाज\end{hindi} \\
+Synonyms: \begin{hindi}आवाज, बोली, कंठ स्वर\end{hindi} \\
+Hypernyms: \begin{hindi}ध्वनि, आवाज़, आवाज\end{hindi} \\
+Hyponyms: \begin{hindi}फुसफुसाहट, फुसफुस, फुस-फुस\end{hindi}
+
+\item \begin{hindi}सुना\end{hindi} \\
+Synonyms: \begin{hindi}सुना, श्रुत, आश्रुत\end{hindi}
+
+\item \begin{hindi}कर\end{hindi} \\
+Synonyms: \begin{hindi}टैक्स, महसूल, शालिक\end{hindi} \\
+Hypernyms: \begin{hindi}धन-दौलत, दौलत, धन\end{hindi} \\
+Hyponyms: \begin{hindi}लगान, मालगुजारी, मालगुज़ारी\end{hindi}
+
+\item \begin{hindi}जादूगर\end{hindi} \\
+Synonyms: \begin{hindi}बाज़ीगर, बाजीगर, ऐंद्रजालिक\end{hindi} \\
+Hypernyms: \begin{hindi}व्यक्ति, मनुष्य, मानस\end{hindi} \\
+Hyponyms: \begin{hindi}जादूगरनी, बाजीगरनी\end{hindi}
+
+\item \begin{hindi}सो\end{hindi} \\
+Synonyms: \begin{hindi}साल, सोल, सोह\end{hindi} \\
+Hypernyms: \begin{hindi}संगीत स्वर, स्वर, सुर\end{hindi}
+
+\item \begin{hindi}बोल\end{hindi} \\
+Synonyms: \begin{hindi}प्रबंध, प्रबन्ध\end{hindi} \\
+Hypernyms: \begin{hindi}ध्वनि, आवाज़, आवाज\end{hindi} \\
+Hyponyms: \begin{hindi}यति\end{hindi}
+
+\item \begin{hindi}समय\end{hindi} \\
+Synonyms: \begin{hindi}काल, वक्त, वक़्त\end{hindi} \\
+Hypernyms: \begin{hindi}बोध, संज्ञान, ज्ञान\end{hindi} \\
+Hyponyms: \begin{hindi}अंतराल, अन्तराल, गोशा\end{hindi}
+
+\item \begin{hindi}बूंद\end{hindi} \\
+Synonyms: \begin{hindi}कण, क़तरा, कतरा\end{hindi} \\
+Hypernyms: \begin{hindi}भाग, हिस्सा, टुकड़ा\end{hindi} \\
+Hyponyms: \begin{hindi}छींटा, छींट\end{hindi}
+
+\item \begin{hindi}पा\end{hindi} \\
+Synonyms: \begin{hindi}पंचम स्वर, पा, प\end{hindi} \\
+Hypernyms: \begin{hindi}संगीत स्वर, स्वर, सुर\end{hindi}
+
+\item \begin{hindi}गिर\end{hindi} \\
+Synonyms: \begin{hindi}पहाड़, गिरि, शैल\end{hindi} \\
+Hypernyms: \begin{hindi}प्राकृतिक वस्तु, नैसर्गिक वस्तु\end{hindi} \\
+Hyponyms: \begin{hindi}हिमालय, गिरिपति, गिरीश\end{hindi} \\
+Meronyms: \begin{hindi}शिखर, चोटी, शिखा\end{hindi}
+
+\item \begin{hindi}बात\end{hindi} \\
+Synonyms: \begin{hindi}ज़िक्र, उल्लेख, चर्चा\end{hindi} \\
+Hypernyms: \begin{hindi}काम, कार्य, कर्म\end{hindi} \\
+Hyponyms: \begin{hindi}आभोग\end{hindi}
+
+\item \begin{hindi}ख्याल\end{hindi} \\
+Synonyms: \begin{hindi}ध्यान, ख़याल, खयाल\end{hindi} \\
+Hypernyms: \begin{hindi}ज्ञान, जानकारी, प्रतीति\end{hindi} \\
+Hyponyms: \begin{hindi}चटखारा, चटकारा\end{hindi}
+
+\item \begin{hindi}लोग\end{hindi} \\
+Synonyms: \begin{hindi}जन, लोक, जनमानस\end{hindi} \\
+Hypernyms: \begin{hindi}समुदाय, समूह, झुंड\end{hindi} \\
+Hyponyms: \begin{hindi}परजन, गैर, ग़ैर\end{hindi} \\
+Meronyms: \begin{hindi}व्यक्ति, मनुष्य, मानस\end{hindi}
+
+\item \begin{hindi}तरह\end{hindi} \\
+Synonyms: \begin{hindi}तरह, किस्म, क़िस्म\end{hindi} \\
+Hypernyms: \begin{hindi}वर्ग, श्रेणी, तबका\end{hindi} \\
+Hyponyms: \begin{hindi}आंगिक, आँगिक, आंगिक अभिनय\end{hindi}
+
+\item \begin{hindi}नुकसान\end{hindi} \\
+Synonyms: \begin{hindi}नुक़सान, नुकसान, हानि\end{hindi} \\
+Hypernyms: \begin{hindi}नुकसान, नुक़सान, हानि\end{hindi}
+
+\item \begin{hindi}अपना\end{hindi} \\
+Synonyms: \begin{hindi}निजी, ज़ाती, अपना\end{hindi}
+
+\item \begin{hindi}उठा\end{hindi} \\
+Synonyms: \begin{hindi}उठा, उठा हुआ, खड़ा\end{hindi}
+
+\item \begin{hindi}लगा\end{hindi} \\
+Synonyms: \begin{hindi}लगा हुआ\end{hindi}
+
+\item \begin{hindi}पहुंच\end{hindi} \\
+Synonyms: \begin{hindi}दौड़, पहुंच\end{hindi} \\
+Hypernyms: \begin{hindi}सीमा, हद, मर्यादा\end{hindi}
+
+\item \begin{hindi}शिकारी\end{hindi} \\
+Synonyms: \begin{hindi}\end{hindi}
+
+\item \begin{hindi}मन\end{hindi} \\
+Synonyms: \begin{hindi}चित्त, चित, मानस\end{hindi} \\
+Hypernyms: \begin{hindi}अमूर्त वस्तु, आकारहीन वस्तु, निरायाम वस्तु\end{hindi}
+
+\item \begin{hindi}सोच\end{hindi} \\
+Synonyms: \begin{hindi}नजरिया, नज़रिया, सोच\end{hindi} \\
+Hypernyms: \begin{hindi}बोध, संज्ञान, ज्ञान\end{hindi} \\
+Hyponyms: \begin{hindi}पहचान, नज़र, परख\end{hindi}
+
+\item \begin{hindi}आसमान\end{hindi} \\
+Synonyms: \begin{hindi}आसमान, गगन, नभ\end{hindi} \\
+Hypernyms: \begin{hindi}प्राकृतिक वस्तु, नैसर्गिक वस्तु\end{hindi} \\
+Hyponyms: \begin{hindi}अंतरिक्ष, अन्तरिक्ष, अंतरीक\end{hindi} \\
+Meronyms: \begin{hindi}बादल, मेघ, मेघा\end{hindi}
+
+\item \begin{hindi}बारिश\end{hindi} \\
+Synonyms: \begin{hindi}वर्षा, बरखा, पावस\end{hindi} \\
+Hypernyms: \begin{hindi}जल, पानी, नीर\end{hindi}
+
+\item \begin{hindi}निकल\end{hindi} \\
+Synonyms: \begin{hindi}निकल\end{hindi} \\
+Hypernyms: \begin{hindi}रासायनिक तत्व, रासायनिक तत्त्व, रसायनिक तत्व\end{hindi}
+
+\item \begin{hindi}देरी\end{hindi} \\
+Synonyms: \begin{hindi}देरी, विलंब, विलम्ब\end{hindi} \\
+Hypernyms: \begin{hindi}समय, काल, वक्त\end{hindi} \\
+Hyponyms: \begin{hindi}लालफ़ीता, लाल फ़ीता, लालफीता\end{hindi}
+
+\item \begin{hindi}खो\end{hindi} \\
+Synonyms: \begin{hindi}\end{hindi} \\
+Hypernyms: \begin{hindi}ध्वनि, आवाज़, आवाज\end{hindi}
+
+\item \begin{hindi}जाल\end{hindi} \\
+Synonyms: \begin{hindi}पाश, आनाय\end{hindi} \\
+Hypernyms: \begin{hindi}औजार, औज़ार, उपकरण\end{hindi} \\
+Hyponyms: \begin{hindi}महाजाल, जंजाल, बड़ा-जाल\end{hindi}
+
+\item \begin{hindi}फेक\end{hindi} \\
+Synonyms: \begin{hindi}फेक शहर\end{hindi} \\
+Hypernyms: \begin{hindi}शहर, नगर, नगरी\end{hindi}
+
+\item \begin{hindi}बच\end{hindi} \\
+Synonyms: \begin{hindi}बच, उग्रगंधा, उग्रगन्धा\end{hindi} \\
+Hypernyms: \begin{hindi}पौधा, पौदा\end{hindi}
+
+\item \begin{hindi}लापरवाही\end{hindi} \\
+Synonyms: \begin{hindi}लापरवाही, बेपरवाही, असावधानता\end{hindi} \\
+Hypernyms: \begin{hindi}मानसिक अवस्था, मनोदशा, मनःस्थिति\end{hindi}
+
+\item \begin{hindi}चक्कर\end{hindi} \\
+Synonyms: \begin{hindi}\end{hindi} \\
+Hypernyms: \begin{hindi}अवस्था, दशा, स्थिति\end{hindi}
+
+\item \begin{hindi}राजा\end{hindi} \\
+Synonyms: \begin{hindi}अवनीश, नराधिप, नरेश\end{hindi} \\
+Hypernyms: \begin{hindi}शासक, नियंता, नियन्ता\end{hindi} \\
+Hyponyms: \begin{hindi}सम्राट, शहंशाह, शाहंशाह\end{hindi}
+
+\item \begin{hindi}बदला\end{hindi} \\
+Synonyms: \begin{hindi}बदला, इंतकाम, इंतक़ाम\end{hindi} \\
+Hypernyms: \begin{hindi}काम, कार्य, कर्म\end{hindi}
+
+\item \begin{hindi}महल\end{hindi} \\
+Synonyms: \begin{hindi}महल, प्रासाद, राजप्रासाद\end{hindi} \\
+Hypernyms: \begin{hindi}भवन, इमारत, वास्तु\end{hindi} \\
+Hyponyms: \begin{hindi}ताजमहल, ताज\end{hindi}
+
+\item \begin{hindi}आराम\end{hindi} \\
+Synonyms: \begin{hindi}आराम, अराम, बिसराम\end{hindi} \\
+Hypernyms: \begin{hindi}काम, कार्य, कर्म\end{hindi} \\
+Hyponyms: \begin{hindi}सोना, शयन, सयन\end{hindi}
+
+\item \begin{hindi}राज्य\end{hindi} \\
+Synonyms: \begin{hindi}राज्य, प्रांत, प्रान्त\end{hindi} \\
+Hypernyms: \begin{hindi}क्षेत्र, इलाका, इलाक़ा\end{hindi} \\
+Hyponyms: \begin{hindi}असम, आसाम\end{hindi} \\
+Meronyms: \begin{hindi}मंडल, संभाग, मण्डल\end{hindi}
+
+\item \begin{hindi}मान\end{hindi} \\
+Synonyms: \begin{hindi}आदर, इज़्ज़त, इज्जत\end{hindi} \\
+Hypernyms: \begin{hindi}सद्व्यवहार, सदाचार, सद् व्यवहार\end{hindi} \\
+Hyponyms: \begin{hindi}स्वागत, अगवानी, अगवाई\end{hindi}
+
+\item \begin{hindi}मंत्री\end{hindi} \\
+Synonyms: \begin{hindi}मन्त्री, मिनिस्टर, वजीर\end{hindi} \\
+Hypernyms: \begin{hindi}अधिकारी\end{hindi} \\
+Hyponyms: \begin{hindi}गृहमंत्री, गृह-मंत्री, गृह मंत्री\end{hindi}
+
+\item \begin{hindi}महाराज\end{hindi} \\
+Synonyms: \begin{hindi}महाराजा, महाराज, चक्रवर्ती\end{hindi} \\
+Hypernyms: \begin{hindi}राजा, अवनीश, नराधिप\end{hindi}
+
+\item \begin{hindi}झूठ\end{hindi} \\
+Synonyms: \begin{hindi}असत्य, गलत, ग़लत\end{hindi}
+
+\item \begin{hindi}भई\end{hindi} \\
+Synonyms: \begin{hindi}\end{hindi} \\
+Hypernyms: \begin{hindi}शब्द, लफ़्ज़, लफ्ज\end{hindi}
+
+\item \begin{hindi}करना\end{hindi} \\
+Synonyms: \begin{hindi}काम करना\end{hindi} \\
+Hypernyms: \begin{hindi}काम, कार्य, कर्म\end{hindi}
+
+\item \begin{hindi}चाह\end{hindi} \\
+Synonyms: \begin{hindi}अभिलाषा, आकांक्षा, ख्वाहिश\end{hindi} \\
+Hypernyms: \begin{hindi}मनोभाव, मानसिक भाव, मनोभावना\end{hindi} \\
+Hyponyms: \begin{hindi}जिज्ञासा, उत्कंठा, उत्कण्ठा\end{hindi}
+
+\item \begin{hindi}खोल\end{hindi} \\
+Synonyms: \begin{hindi}अपाहिज, अंगहीन, अपंग\end{hindi}
+
+\item \begin{hindi}गुस्सा\end{hindi} \\
+Synonyms: \begin{hindi}गुस्सा, आक्रोश, कोप\end{hindi} \\
+Hypernyms: \begin{hindi}मनोभाव, मानसिक भाव, मनोभावना\end{hindi} \\
+Hyponyms: \begin{hindi}खीज, झुँझलाहट, कुढ़न\end{hindi}
+
+\item \begin{hindi}सिपाही\end{hindi} \\
+Synonyms: \begin{hindi}योद्धा, योधा, जोधा\end{hindi} \\
+Hypernyms: \begin{hindi}व्यक्ति, मनुष्य, मानस\end{hindi} \\
+Hyponyms: \begin{hindi}सीमा रक्षक, सीमापाल, सीमारक्षक\end{hindi}
+
+\item \begin{hindi}शुरू\end{hindi} \\
+Synonyms: \begin{hindi}आरम्भ, शुरुआत, शुरुवात\end{hindi} \\
+Hypernyms: \begin{hindi}क्रिया\end{hindi} \\
+Hyponyms: \begin{hindi}उद्घाटन\end{hindi}
+
+\item \begin{hindi}होना\end{hindi} \\
+Synonyms: \begin{hindi}\end{hindi} \\
+Hyponyms: \begin{hindi}लूटना\end{hindi} \\

@@ -1,0 +1,323 @@
+\item \begin{hindi} बार \end{hindi} (instance) \\
+Meaning: An occurrence or a specific time an event happens. \\
+Semantic features: +temporal +countable
+
+\item \begin{hindi} जंगल \end{hindi} (forest) \\
+Meaning: A dense area covered with trees. \\
+Semantic features: +natural +dense
+
+\item \begin{hindi} कोयल \end{hindi} (cuckoo) \\
+Meaning: A bird known for its melodious call. \\
+Semantic features: +avian -human
+
+\item \begin{hindi} मीठा \end{hindi} (sweet) \\
+Meaning: Having a pleasant, sugary taste. \\
+Semantic features: +taste +desirable
+
+\item \begin{hindi} गा \end{hindi} (sing) \\
+Meaning: To vocalize a tune or song. \\
+Semantic features: +vocal +musical
+
+\item \begin{hindi} हो \end{hindi} (be) \\
+Meaning: To exist or occur. \\
+Semantic features: +existence +state
+
+\item \begin{hindi} सुन \end{hindi} (listen) \\
+Meaning: To pay attention to sounds. \\
+Semantic features: +auditory +perceptual
+
+\item \begin{hindi} जा \end{hindi} (go) \\
+Meaning: To move from one place to another. \\
+Semantic features: +movement +directive
+
+\item \begin{hindi} आवाज \end{hindi} (voice) \\
+Meaning: The sound produced by a person or animal. \\
+Semantic features: +auditory +expressive
+
+\item \begin{hindi} सुना \end{hindi} (heard) \\
+Meaning: Having listened or been made aware by sound. \\
+Semantic features: +auditory +past
+
+\item \begin{hindi} दा \end{hindi} (give) \\
+Meaning: To bestow or hand over something. \\
+Semantic features: +transference +command
+
+\item \begin{hindi} कर \end{hindi} (do) \\
+Meaning: To perform an action or execute a task. \\
+Semantic features: +action +imperative
+
+\item \begin{hindi} जादूगर \end{hindi} (magician) \\
+Meaning: A person who practices magic or illusions. \\
+Semantic features: +magical +performer
+
+\item \begin{hindi} कह \end{hindi} (say) \\
+Meaning: To utter words or express verbally. \\
+Semantic features: +verbal +directive
+
+\item \begin{hindi} सो \end{hindi} (sleep) \\
+Meaning: To sleep \\
+Semantic features: +transitional +resultative
+
+\item \begin{hindi} बोल \end{hindi} (speak) \\
+Meaning: To articulate words; to express verbally. \\
+Semantic features: +verbal +expressive
+
+\item \begin{hindi} समय \end{hindi} (time) \\
+Meaning: The ongoing sequence in which events occur. \\
+Semantic features: +temporal +abstract
+
+\item \begin{hindi} बूँद \end{hindi} (drop) \\
+Meaning: A small, round particle of liquid. \\
+Semantic features: +liquid +small
+
+\item \begin{hindi} पा \end{hindi} (get) \\
+Meaning: To acquire or obtain something. \\
+Semantic features: +acquisition +action
+
+\item \begin{hindi} गिर \end{hindi} (fall) \\
+Meaning: To descend freely under the force of gravity. \\
+Semantic features: +motion +gravity
+
+\item \begin{hindi} बूंद \end{hindi} (drop) \\
+Meaning: A tiny particle of liquid. \\
+Semantic features: +liquid +minuscule
+
+\item \begin{hindi} बदल \end{hindi} (change) \\
+Meaning: To make or become different; to alter. \\
+Semantic features: +transformation +action
+
+\item \begin{hindi} बात \end{hindi} (matter) \\
+Meaning: A subject, topic, or discussion point. \\
+Semantic features: +communication +abstract
+
+\item \begin{hindi} ख्याल \end{hindi} (thought) \\
+Meaning: An idea, notion, or reflection. \\
+Semantic features: +cognitive +abstract
+
+\item \begin{hindi} रख \end{hindi} (keep) \\
+Meaning: To maintain possession or retain. \\
+Semantic features: +retention +action
+
+\item \begin{hindi} लोग \end{hindi} (people) \\
+Meaning: Human beings considered collectively. \\
+Semantic features: +social +plural
+
+\item \begin{hindi} तरह \end{hindi} (manner) \\
+Meaning: A way or style of doing something; a kind. \\
+Semantic features: +categorical +comparative
+
+\item \begin{hindi} नुकसान \end{hindi} (damage) \\
+Meaning: Harm or loss suffered by someone or something. \\
+Semantic features: +negative +destructive
+
+\item \begin{hindi} चला \end{hindi} (went) \\
+Meaning: Moved or proceeded from one place to another (past tense). \\
+Semantic features: +movement +past
+
+\item \begin{hindi} लग \end{hindi} (attach/seem) \\
+Meaning: To affix or appear in a certain way. \\
+Semantic features: +attachment +perceptual
+
+\item \begin{hindi} अपना \end{hindi} (own) \\
+Meaning: Belonging to oneself; personal. \\
+Semantic features: +possessive +reflexive
+
+\item \begin{hindi} देख \end{hindi} (see) \\
+Meaning: To perceive with the eyes. \\
+Semantic features: +visual +perceptual
+
+\item \begin{hindi} उठा \end{hindi} (lifted) \\
+Meaning: Moved upward or raised something. \\
+Semantic features: +elevation +action
+
+\item \begin{hindi} लगा \end{hindi} (applied/felt) \\
+Meaning: To have been affixed or to have appeared in a certain manner. \\
+Semantic features: +causative +subjective
+
+\item \begin{hindi} पहुँच \end{hindi} (reach) \\
+Meaning: To arrive at a destination. \\
+Semantic features: +movement +goal
+
+\item \begin{hindi} शिकारी \end{hindi} (hunter) \\
+Meaning: A person who hunts animals. \\
+Semantic features: +predatory +active
+
+\item \begin{hindi} पेड़ \end{hindi} (tree) \\
+Meaning: A perennial plant with a trunk and branches. \\
+Semantic features: +botanical +stationary
+
+\item \begin{hindi} बैठ \end{hindi} (sit) \\
+Meaning: To rest in a seated position. \\
+Semantic features: +stationary +posture
+
+\item \begin{hindi} पहुंच \end{hindi} (reach) \\
+Meaning: To arrive at or get to a place. \\
+Semantic features: +arrival +goal
+
+\item \begin{hindi} ले \end{hindi} (take) \\
+Meaning: To grasp or seize something. \\
+Semantic features: +acquisition +action
+
+\item \begin{hindi} मन \end{hindi} (mind) \\
+Meaning: The faculty of thought and consciousness. \\
+Semantic features: +cognitive +abstract
+
+\item \begin{hindi} सोच \end{hindi} (think) \\
+Meaning: To form ideas or consider. \\
+Semantic features: +cognitive +process
+
+\item \begin{hindi} आसमान \end{hindi} (sky) \\
+Meaning: The expanse over the earth; the heavens. \\
+Semantic features: +celestial +vast
+
+\item \begin{hindi} बारिश \end{hindi} (rain) \\
+Meaning: Water that falls from clouds as droplets. \\
+Semantic features: +weather +liquid
+
+\item \begin{hindi} नजर \end{hindi} (sight) \\
+Meaning: The faculty or act of seeing. \\
+Semantic features: +visual +perceptual
+
+\item \begin{hindi} वाला \end{hindi} (related to) \\
+Meaning: Denoting association or possession. \\
+Semantic features: +associative +descriptive
+
+\item \begin{hindi} निकल \end{hindi} (emerge) \\
+Meaning: To come out or appear. \\
+Semantic features: +movement +emergence
+
+\item \begin{hindi} देरी \end{hindi} (delay) \\
+Meaning: A lapse of time that causes lateness. \\
+Semantic features: +temporal +lagging
+
+\item \begin{hindi} पकड़ \end{hindi} (catch) \\
+Meaning: To seize or hold firmly. \\
+Semantic features: +grasp +action
+
+\item \begin{hindi} बन \end{hindi} (become/make) \\
+Meaning: To transform or create a state or object. \\
+Semantic features: +transformation +creation
+
+\item \begin{hindi} खो \end{hindi} (lose) \\
+Meaning: To misplace or fail to retain. \\
+Semantic features: +loss +action
+
+\item \begin{hindi} जाल \end{hindi} (net) \\
+Meaning: A mesh structure used for trapping or catching. \\
+Semantic features: +entrapment +structure
+
+\item \begin{hindi} फेक \end{hindi} (throw) \\
+Meaning: To hurl or toss something away. \\
+Semantic features: +action +discard
+
+\item \begin{hindi} फँस \end{hindi} (get trapped) \\
+Meaning: To become caught or ensnared. \\
+Semantic features: +constraint +action
+
+\item \begin{hindi} बच \end{hindi} (save/escape) \\
+Meaning: To avoid harm or remain unscathed. \\
+Semantic features: +preservation +rescue
+
+\item \begin{hindi} लापरवाही \end{hindi} (negligence) \\
+Meaning: A lack of proper care or attention. \\
+Semantic features: +careless +omission
+
+\item \begin{hindi} चक्कर \end{hindi} (dizziness) \\
+Meaning: A state of spinning or disorientation. \\
+Semantic features: +rotational +disorienting
+
+\item \begin{hindi} राजा \end{hindi} (king) \\
+Meaning: A male ruler or sovereign. \\
+Semantic features: +royal +authoritative
+
+\item \begin{hindi} दे \end{hindi} (give) \\
+Meaning: To provide or hand over something. \\
+Semantic features: +transfer +action
+
+\item \begin{hindi} बदला \end{hindi} (revenge) \\
+Meaning: The act of retaliating or seeking retribution. \\
+Semantic features: +retributive +emotional
+
+\item \begin{hindi} राजमहल \end{hindi} (palace) \\
+Meaning: A grand residence of a king or noble. \\
+Semantic features: +royal +architectural
+
+\item \begin{hindi} आराम \end{hindi} (rest) \\
+Meaning: A state of relaxation or ease. \\
+Semantic features: +relaxation +comfort
+
+\item \begin{hindi} बीत \end{hindi} (pass) \\
+Meaning: To elapse or move by in time. \\
+Semantic features: +temporal +transitional
+
+\item \begin{hindi} बता \end{hindi} (tell) \\
+Meaning: To communicate information or narrate. \\
+Semantic features: +communicative +directive
+
+\item \begin{hindi} राज्य \end{hindi} (state) \\
+Meaning: A political territory or kingdom. \\
+Semantic features: +political +territorial
+
+\item \begin{hindi} महल \end{hindi} (palace) \\
+Meaning: A large, stately residence. \\
+Semantic features: +architectural +luxurious
+
+\item \begin{hindi} मान \end{hindi} (respect) \\
+Meaning: Regard or esteem for someone. \\
+Semantic features: +respectful +abstract
+
+\item \begin{hindi} मंत्री \end{hindi} (minister) \\
+Meaning: A government official or head of a department. \\
+Semantic features: +political +administrative
+
+\item \begin{hindi} महाराज \end{hindi} (great king) \\
+Meaning: A highly revered or eminent monarch. \\
+Semantic features: +royal +august
+
+\item \begin{hindi} झूठ \end{hindi} (lie) \\
+Meaning: An untrue statement or falsehood. \\
+Semantic features: +deceptive +false
+
+\item \begin{hindi} भई \end{hindi} (brother) \\
+Meaning: A term of address for a male sibling or close friend. \\
+Semantic features: +familial +colloquial
+
+\item \begin{hindi} दिखा \end{hindi} (show) \\
+Meaning: To display or exhibit visually. \\
+Semantic features: +visual +expressive
+
+\item \begin{hindi} निकाल \end{hindi} (remove) \\
+Meaning: To extract or take something out. \\
+Semantic features: +extraction +action
+
+\item \begin{hindi} गल \end{hindi} (mistake) \\
+Meaning: An error or fault. \\
+Semantic features: +incorrect +cognitive
+
+\item \begin{hindi} करना \end{hindi} (do) \\
+Meaning: To perform an action or execute an activity. \\
+Semantic features: +action +performative
+
+\item \begin{hindi} चाह \end{hindi} (desire) \\
+Meaning: To want or long for something. \\
+Semantic features: +emotional +intentional
+
+\item \begin{hindi} खोल \end{hindi} (open) \\
+Meaning: To make accessible or reveal. \\
+Semantic features: +accessibility +action
+
+\item \begin{hindi} गुस्सा \end{hindi} (anger) \\
+Meaning: A strong feeling of displeasure or hostility. \\
+Semantic features: +emotional +intense
+
+\item \begin{hindi} सिपाही \end{hindi} (soldier) \\
+Meaning: A person serving in an armed force. \\
+Semantic features: +military +disciplined
+
+\item \begin{hindi} शुरू \end{hindi} (start) \\
+Meaning: To begin or commence an action. \\
+Semantic features: +initiation +temporal
+
+\item \begin{hindi} होना \end{hindi} (become/exist) \\
+Meaning: To come into existence or occur. \\
+Semantic features: +existence +process
