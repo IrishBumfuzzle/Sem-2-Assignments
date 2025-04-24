@@ -1,0 +1,17 @@
+Classification Report:
+              precision    recall  f1-score   support
+
+       B-LOC       0.30      0.60      0.40         5
+      B-MISC       0.25      0.12      0.17         8
+       B-ORG       0.21      0.17      0.19        18
+       B-PER       0.42      0.33      0.37        30
+       I-LOC       0.00      0.00      0.00         5
+      I-MISC       0.00      0.00      0.00         5
+       I-ORG       0.40      0.59      0.48        17
+       I-PER       0.50      0.75      0.60        12
+           O       0.93      0.94      0.93       442
+
+    accuracy                           0.83       542
+   macro avg       0.33      0.39      0.35       542
+weighted avg       0.82      0.83      0.82       542
+
